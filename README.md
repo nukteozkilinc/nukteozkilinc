@@ -46,7 +46,7 @@
 </p>
 
 <p align='right'>
-    <a href='linkedin.com/in/nükte-özkılınç-586101196'> 
+    <a href='https://www.linkedin.com/in/nükte-özkılınç-586101196/'> 
         <img src='https://img.shields.io/badge/LinkedIn-ED8B00?style=for-the-badge&logo=linkedin&logoColor=white ' /> 
     </a>
 </p>
