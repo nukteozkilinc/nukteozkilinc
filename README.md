@@ -2,7 +2,7 @@
 
 ![selam](https://tenor.com/view/cat-animation-rainbow-gif-14574831.gif)
 
-<p align='center>
+<p align='center'>
     <a href=''> 
        <img src='https://tenor.com/view/cat-animation-rainbow-gif-14574831.gif' />
     </a>
