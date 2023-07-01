@@ -10,7 +10,7 @@
 
 ## Tech | Tools | Stats
 
-<p align='left>
+<p align='left'>
     <a href=''> 
         <img src='https://img.shields.io/badge/Kotlin-ED8B00?style=for-the-badge&logo=kotlin&logoColor=white ' /> 
     </a>
@@ -39,9 +39,15 @@
 
 ## I'm interested in
 
-<p align='left>
+<p align='left'>
     <a href=''> 
         <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=nukteozkilinc&size_weight=0.5&count_weight=0.5' /> 
+    </a>
+</p>
+
+<p align='right'>
+    <a href='linkedin.com/in/nükte-özkılınç-586101196'> 
+        <img src='https://img.shields.io/badge/LinkedIn-ED8B00?style=for-the-badge&logo=linkedin&logoColor=white ' /> 
     </a>
 </p>
 
