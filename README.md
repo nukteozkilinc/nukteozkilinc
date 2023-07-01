@@ -20,6 +20,9 @@
     <a href=''> 
         <img src='https://img.shields.io/badge/Firebase-ED8B00?style=for-the-badge&logo=firebase&logoColor=white ' /> 
     </a>
+    <a href=''> 
+        <img src='https://img.shields.io/badge/SQLite-ED8B00?style=for-the-badge&logo=sqlite&logoColor=white ' /> 
+    </a>
 </p>
 
 <picture>
